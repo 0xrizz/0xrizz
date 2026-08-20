@@ -15,7 +15,7 @@
 
 ---
 
-### 📋 Spec Sheet
+### <img src="./assets/icons/clipboard-list.svg" width="18" height="18" valign="middle"/> Spec Sheet
 
 ```yaml
 user: 0xrizz
@@ -33,7 +33,7 @@ principles:
 
 ---
 
-### 🛠️ Technical Arsenal
+### <img src="./assets/icons/cpu.svg" width="18" height="18" valign="middle"/> Technical Arsenal
 
 ```text
 Languages   : TypeScript • JavaScript • Rust • Python • Shell • HTML/CSS
@@ -44,7 +44,7 @@ Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web App
 
 ---
 
-### 📊 Telemetry
+### <img src="./assets/icons/bar-chart.svg" width="18" height="18" valign="middle"/> Telemetry
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0xrizz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=c9d1d9&text_color=8b949e" />
@@ -53,7 +53,7 @@ Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web App
 
 ---
 
-### ⚡ Recent Activity
+### <img src="./assets/icons/zap.svg" width="18" height="18" valign="middle"/> Recent Activity
 
 <!--START_SECTION:activity-->
 * 🔄 Synchronizing activity log...
@@ -61,7 +61,7 @@ Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web App
 
 ---
 
-### 📬 Collaboration & Inquiries
+### <img src="./assets/icons/message-square.svg" width="18" height="18" valign="middle"/> Collaboration & Inquiries
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════╗
@@ -80,6 +80,7 @@ Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web App
 
 <div align="center">
 
-[ [✉️ abdulmajidalkarim343@gmail.com](mailto:abdulmajidalkarim343@gmail.com) ] • [ [𝕏 @0xrizz_](https://x.com/0xrizz_) ] • [ [🚀 Repositories](https://github.com/0xrizz?tab=repositories) ]
+[ <img src="./assets/icons/mail.svg" width="14" height="14" valign="middle"/> abdulmajidalkarim343@gmail.com ](mailto:abdulmajidalkarim343@gmail.com) • [ <img src="./assets/icons/x.svg" width="14" height="14" valign="middle"/> @0xrizz_ ](https://x.com/0xrizz_) • [ <img src="./assets/icons/git-branch.svg" width="14" height="14" valign="middle"/> Repositories ](https://github.com/0xrizz?tab=repositories)
 
 </div>
+
