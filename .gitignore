@@ -1,0 +1,6 @@
+# Documentation & internal planning specs
+docs/
+
+# Temporary / Scratch
+*.log
+.DS_Store
