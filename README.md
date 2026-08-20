@@ -9,7 +9,7 @@
  ╚═════╝   ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚══════╝  ╚══════╝  
 </pre>
 
-`[ status: active ] • [ role: systems_and_ai_engineer ] • [ env: linux/x86_64 ]`
+`[ status: active ] • [ role: agentic_ai_and_systems_engineer ] • [ env: linux/wsl2_x86_64 ]`
 
 </div>
 
@@ -20,14 +20,15 @@
 ```yaml
 user: 0xrizz
 focus:
-  - distributed_systems
-  - cloud_infrastructure
-  - autonomous_ai_workflows
-  - low_level_performance
+  - autonomous_ai_harnesses
+  - spec_driven_development_sdd
+  - agent_performance_optimization
+  - linux_system_automation
 principles:
   - high_signal_low_noise
-  - architecture_first
-  - clean_pragmatic_engineering
+  - research_first_development
+  - security_matrix_first
+  - pragmatic_agentic_workflows
 ```
 
 ---
@@ -35,10 +36,10 @@ principles:
 ### 🛠️ Technical Arsenal
 
 ```text
-Languages   : Go • Rust • Python • TypeScript • C • Shell
-Infra/Cloud : GCP • Docker • Kubernetes • Linux • Nginx • GitHub Actions
-Data/Store  : PostgreSQL • Redis • ClickHouse • SQLite • Vector DBs
-Tooling     : Antigravity • Neovim • Git • Tmux • Linux CLI
+Languages   : TypeScript • JavaScript • Rust • Python • Shell • HTML/CSS
+AI / Agent  : Claude Code • Antigravity (AGY) • OpenSpec (SDD) • ECC Framework • Multi-Agent
+Systems/Ops : Linux / WSL2 • Bash Automation • Docker • Git • Tmux • GitHub Actions
+Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web Apps
 ```
 
 ---
@@ -64,10 +65,10 @@ Tooling     : Antigravity • Neovim • Git • Tmux • Linux CLI
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────┐
-│  💬 OPEN FOR COLLABORATION, ARCHITECTURE REVIEW & TECH TALKS             │
+│  💬 OPEN FOR COLLABORATION, AGENTIC ARCHITECTURE & TECH TALKS            │
 │                                                                          │
-│  Building high-performance distributed backends, cloud systems, or       │
-│  autonomous AI agent workflows? Let's connect.                           │
+│  Building autonomous AI agent harnesses, spec-driven development (SDD),  │
+│  or high-performance Linux system tooling? Let's connect.                │
 │                                                                          │
 │  ❯ Email    : abdulmajidalkarim343@gmail.com                             │
 │  ❯ LinkedIn : https://linkedin.com/in/0xrizz                             │
