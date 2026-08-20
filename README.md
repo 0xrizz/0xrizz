@@ -72,7 +72,7 @@ Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web App
 ║  or high-performance Linux system tooling? Let's connect.                ║
 ║                                                                          ║
 ║  :: Email    : abdulmajidalkarim343@gmail.com                            ║
-║  :: LinkedIn : https://linkedin.com/in/0xrizz                            ║
+║  :: X        : https://x.com/0xrizz_ (@0xrizz_)                          ║
 ║  :: GitHub   : https://github.com/0xrizz                                 ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
@@ -80,6 +80,6 @@ Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web App
 
 <div align="center">
 
-[ [✉️ Send Email](mailto:abdulmajidalkarim343@gmail.com) ] • [ [💼 LinkedIn](https://linkedin.com/in/0xrizz) ] • [ [🚀 Repositories](https://github.com/0xrizz?tab=repositories) ]
+[ [✉️ abdulmajidalkarim343@gmail.com](mailto:abdulmajidalkarim343@gmail.com) ] • [ [𝕏 @0xrizz_](https://x.com/0xrizz_) ] • [ [🚀 Repositories](https://github.com/0xrizz?tab=repositories) ]
 
 </div>
