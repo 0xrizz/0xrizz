@@ -64,16 +64,18 @@ Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web App
 ### 📬 Collaboration & Inquiries
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│  💬 OPEN FOR COLLABORATION, AGENTIC ARCHITECTURE & TECH TALKS            │
-│                                                                          │
-│  Building autonomous AI agent harnesses, spec-driven development (SDD),  │
-│  or high-performance Linux system tooling? Let's connect.                │
-│                                                                          │
-│  ❯ Email    : abdulmajidalkarim343@gmail.com                             │
-│  ❯ LinkedIn : https://linkedin.com/in/0xrizz                             │
-│  ❯ GitHub   : https://github.com/0xrizz                                  │
-└──────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║  [0xrizz@harness:~]$ init --collaborate                                  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  Building autonomous AI agent harnesses, spec-driven development (SDD),  ║
+║  or high-performance Linux system tooling? Let's connect.                ║
+║                                                                          ║
+║  :: Email    : abdulmajidalkarim343@gmail.com                            ║
+║  :: LinkedIn : https://linkedin.com/in/0xrizz                            ║
+║  :: GitHub   : https://github.com/0xrizz                                 ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
