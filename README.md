@@ -56,7 +56,7 @@ Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web App
 ### <img src="./assets/icons/zap.svg" width="18" height="18" valign="middle"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/pxrzival404/arostech-hub/pull/19) in [pxrzival404/arostech-hub](https://github.com/pxrzival404/arostech-hub)
+1. 🎉 Merged PR [#5](https://github.com/0xrizz/os-manager/pull/5) in [0xrizz/os-manager](https://github.com/0xrizz/os-manager)
 <!--END_SECTION:activity-->
 
 ---
