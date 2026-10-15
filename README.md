@@ -56,7 +56,7 @@ Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web App
 ### <img src="./assets/icons/zap.svg" width="18" height="18" valign="middle"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/0xrizz/os-manager/pull/15) in [0xrizz/os-manager](https://github.com/0xrizz/os-manager)
+1. 🚀 Published release [v4.0.0 — Scientific Prompt Architect & Studio Upgrade](https://github.com/0xrizz/prompt-engineer/releases/tag/v4.0.0) in [0xrizz/prompt-engineer](https://github.com/0xrizz/prompt-engineer)
 <!--END_SECTION:activity-->
 
 ---
