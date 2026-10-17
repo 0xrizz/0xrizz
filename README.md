@@ -56,7 +56,7 @@ Data/Stack  : Python Analytics • Web Scraping • REST APIs • Modern Web App
 ### <img src="./assets/icons/zap.svg" width="18" height="18" valign="middle"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/pxrzival404/arostech-hub/pull/18) in [pxrzival404/arostech-hub](https://github.com/pxrzival404/arostech-hub)
+1. 🗣 Commented on [#18](https://github.com/pxrzival404/arostech-hub/pull/18#issuecomment-6224417694) in [pxrzival404/arostech-hub](https://github.com/pxrzival404/arostech-hub)
 <!--END_SECTION:activity-->
 
 ---
